@@ -1,0 +1,1 @@
+echo $1 | ./my-router topology.txt H | tee routing-outputH.txt
